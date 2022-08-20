@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+
+<head> <title>Sai resume</title>
+</head>
+
+<style>
+    body{
+        background-color: coral;
+    }
+    h1{
+        text-align: center;
+        color: blueviolet;
+    }
+    h2{
+        font-size: 15mp;
+        color: aquamarine;
+    }
+    p{
+        font-size: 5mp;
+    }
+    a{
+        font-size: 15mp;
+    }
+    h4{
+        font-size: 10mp;
+        color: brown;
+    }
+    h5{
+        font-size: 15mp;
+        color: cornflowerblue;
+    }
+    ul.a{
+        color: rgb(0, 255, 115);
+        list-style-type:disc;
+    }
+    ol.b{
+        color: brown;
+        list-style-type:lower-roman;
+    }
+</style>
+
+<body>
+<h1>Sai Resume</h1>
+<h2>About Me</h2>
+<p>
+    QuillBot's paraphrasing tool helps millions of people rewrite and enhance
+    any sentence, paragraph, or article using state-of-the-art AI. Your words
+    matter, and our paraphrasing tool is designed to ensure you use the right ones.</p>
+</body>
+
+<a href="https://www.google.co.in">online sbi</a>
+
+<h4>Skills</h4>
+ <ul class="a">
+    <li>python
+    <li>sql</li>
+    <li>html</li>
+    <li>react</li>
+    </li>
+ </ul>
+ <h5>Languages</h5>
+ <ol class="b">
+    <li>english</li>
+    <li>hindi</li>
+    <li>telugu</li>
+ </ol>
+
+</html>
